@@ -6,6 +6,7 @@ public class Application {
         System.out.println("hell world!!!");
         System.out.println("흑흑흑흑");
         System.out.println("hi");
+        System.out.println("oh");
 
     }
 }
